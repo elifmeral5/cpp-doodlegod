@@ -1,0 +1,352 @@
+Tru**************************************************************
+ DDD   OOOO  OOOO  DDD   L    EEEE  GGGG  OOOO  DDD  
+ D  D  O  O  O  O  D  D  L    E     G     O  O  D  D 
+ D  D  O  O  O  O  D  D  L    EEEE  G GG  O  O  D  D 
+ D  D  O  O  O  O  D  D  L    E     G  G  O  O  D  D 
+ DDD   OOOO  OOOO  DDD   LLLL EEEE  GGGG  OOOO  DDD  
+**************************************************************
+139 recipes loaded.
+What is the name of the Doodle God?
+True Grit
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+1
+1. Air
+2. Earth
+3. Fire
+4. Water
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+-1
+1. Air
+2. Earth
+3. Fire
+4. Water
+Which elements would you like to merge?
+To list known elements enter -1
+1
+Which elements would you like to merge?
+To list known elements enter -1
+2
+Air combined with Earth to make Dust!
+The Doodle God now knows Dust.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+1
+Which elements would you like to merge?
+To list known elements enter -1
+3
+Air combined with Fire to make Energy!
+The Doodle God now knows Energy.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+1
+Which elements would you like to merge?
+To list known elements enter -1
+4
+Nothing happened when you tried to combine Air and Water
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+1
+Which elements would you like to merge?
+To list known elements enter -1
+5
+Nothing happened when you tried to combine Air and Dust
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+1
+1. Air
+2. Earth
+3. Fire
+4. Water
+5. Dust
+6. Energy
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+1
+Which elements would you like to merge?
+To list known elements enter -1
+6
+Air combined with Energy to make Storm!
+The Doodle God now knows Storm.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+1
+Which elements would you like to merge?
+To list known elements enter -1
+5
+Nothing happened when you tried to combine Air and Dust
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+2
+Which elements would you like to merge?
+To list known elements enter -1
+5
+Nothing happened when you tried to combine Earth and Dust
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+3
+Which elements would you like to merge?
+To list known elements enter -1
+6
+Nothing happened when you tried to combine Fire and Energy
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+2
+Which elements would you like to merge?
+To list known elements enter -1
+6
+Nothing happened when you tried to combine Earth and Energy
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+1
+Which elements would you like to merge?
+To list known elements enter -1
+6
+Storm already known.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+3
+Which elements would you like to merge?
+To list known elements enter -1
+6
+Nothing happened when you tried to combine Fire and Energy
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+4
+Which elements would you like to merge?
+To list known elements enter -1
+6
+Water combined with Energy to make Life!
+The Doodle God now knows Life.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+1
+1. Air
+2. Earth
+3. Fire
+4. Water
+5. Dust
+6. Energy
+7. Storm
+8. Life
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+1
+Which elements would you like to merge?
+To list known elements enter -1
+8
+Nothing happened when you tried to combine Air and Life
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+8
+Which elements would you like to merge?
+To list known elements enter -1
+2
+Life combined with Earth to make Grass!
+The Doodle God now knows Grass.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+8
+Which elements would you like to merge?
+To list known elements enter -1
+3
+Nothing happened when you tried to combine Life and Fire
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+8
+Which elements would you like to merge?
+To list known elements enter -1
+4
+Life combined with Water to make Weeds!
+The Doodle God now knows Weeds.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+8
+Which elements would you like to merge?
+To list known elements enter -1
+5
+Nothing happened when you tried to combine Life and Dust
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+8
+Which elements would you like to merge?
+To list known elements enter -1
+6
+Nothing happened when you tried to combine Life and Energy
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+1
+1. Air
+2. Earth
+3. Fire
+4. Water
+5. Dust
+6. Energy
+7. Storm
+8. Life
+9. Grass
+10. Weeds
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+2
+Which elements would you like to merge?
+To list known elements enter -1
+2
+Which elements would you like to merge?
+To list known elements enter -1
+9
+Earth combined with Grass to make Flower!
+The Doodle God now knows Flower.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+3
+***The Doodle God***
+The Great Doodle God True Grit
+The Doodle God has tried to combine 19 elements
+The Doodle God has repeated attempts 1 times
+The Doodle God found 11 out of 139 elements.
+You have completed 7.91% of the elements.
+What would you like to do?
+1. Display the Doodle God's Elements
+2. Attempt to Combine Elements
+3. See Score
+4. Quit
+4
+Thanks for playing the Doodle God!
